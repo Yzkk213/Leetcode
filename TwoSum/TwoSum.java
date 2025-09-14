@@ -1,4 +1,4 @@
-
+package TwoSum;
 import java.util.*;
 
 class Solution {
